@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.2.7</title>
-            <description>Mise à jour de la base de données. Mise à jour du scan</description>
-            <pubDate>Tue, 06 Mar 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.2.7" sparkle:os="android" />
+            <title>Version 1.2.8</title>
+            <description>Mise à jour de la base de données.</description>
+            <pubDate>Tue, 13 Mar 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.2.8" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.1.6</title>
