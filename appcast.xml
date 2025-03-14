@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.2.8" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.1.6</title>
-            <description>Mise à jour de la base de données. Ajout du e392. Ajout d'un lien vers le plant based treaty</description>
-            <pubDate>Tue, 21 Jan 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.1.6" sparkle:os="ios" />
+            <title>Version 1.1.7</title>
+            <description>Mise à jour de la base de données.</description>
+            <pubDate>Tue, 13 Mar 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.1.7" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
