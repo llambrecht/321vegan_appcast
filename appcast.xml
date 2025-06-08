@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.5.0" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.3.4</title>
-            <description>Correction de l'affichage des cosmétiques. Mise à jour des données</description>
-            <pubDate>Sun, 25 May 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.3.4" sparkle:os="ios" />
+            <title>Version 1.5.0</title>
+            <description>Ajout d'une fonction de signalement d'erreur. Améliorations visuelles. Mise à jour de la base de données. Mise à jour des cosmétiques</description>
+            <pubDate>Sun, 09 Jun 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.5.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
