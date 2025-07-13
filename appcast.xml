@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.7.0</title>
-            <description>Ajout d'un tutoriel d'introduction. Ajout d'un lien vers la page de don. Mise à jour de la base de données. Mise à jour des cosmétiques. Mise à jour de la liste de boycott</description>
+            <title>Version 1.7.1</title>
+            <description>Correction d'un bug sur le tutoriel</description>
             <pubDate>Sun, 11 Jul 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.7.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.7.1" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.7.0</title>
