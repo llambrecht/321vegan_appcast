@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.7.1" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.7.0</title>
-            <description>Ajout d'un tutoriel d'introduction. Ajout d'un lien vers la page de don. Mise à jour de la base de données. Mise à jour des cosmétiques. Mise à jour de la liste de boycott</description>
-            <pubDate>Sun, 11 Jul 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.7.0" sparkle:os="ios" />
+            <title>Version 1.7.1</title>
+            <description>Correction d'un bug sur le tutoriel</description>
+            <pubDate>Sun, 13 Jul 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.7.1" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
