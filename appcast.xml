@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.10.2</title>
-            <description>Mise à jour des produits. Mise à jour des cosmétiques</description>
+            <title>Version 1.11.0</title>
+            <description>Ajout d'une option pour changer la page principale. Mise à jour des produits<./description>
             <pubDate> Sat, 16 Aug 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.10.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.11.0" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.10.2</title>
