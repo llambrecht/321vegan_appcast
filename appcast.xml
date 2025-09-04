@@ -4,13 +4,13 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Version 1.11.1</title>
-            <description>Ajout d'un nouveau partenaire : Comme Avant, marque de cosmétiques. Mise à jour des produits<./description>
+            <description>Ajout d'un nouveau partenaire : Comme Avant, marque de cosmétiques. Mise à jour des produits</description>
             <pubDate> Thu, 04 Sep 2025 08:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.11.1" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.11.1</title>
-            <description>Ajout d'un nouveau partenaire : Comme Avant, marque de cosmétiques. Mise à jour des produits<./description>
+            <description>Ajout d'un nouveau partenaire : Comme Avant, marque de cosmétiques. Mise à jour des produits</description>
             <pubDate> Thu, 04 Sep 2025 08:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.11.1" sparkle:os="ios" />
         </item>
