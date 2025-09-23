@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.11.3" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.11.2</title>
-            <description>Mise à jour des produits</description>
-            <pubDate> Sat, 13 Sep 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.11.2" sparkle:os="ios" />
+            <title>Version 1.11.3</title>
+            <description>Mise à jour des produits, amélioration du scan.</description>
+            <pubDate> Sun, 21 Sep 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.11.3" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
