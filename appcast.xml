@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="1.12.3" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.12.2</title>
-            <description>Ajout de la promo Petit Veganne. Mise à jour des données. Modifications de la page infos</description>
-            <pubDate> Mon, 13 Oct 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.12.2" sparkle:os="ios" />
+            <title>Version 1.12.3</title>
+            <description>Mise à jours des produits et cosmétiques</description>
+            <pubDate> Sat,18 Oct 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="1.12.3" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
