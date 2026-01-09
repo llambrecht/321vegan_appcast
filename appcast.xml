@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="2.4.0" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 2.3.0</title>
-            <description>Mise à jour des données. Ajout d'options. Amélioration de la page de profil</description>
-            <pubDate>Fri, 02 Jan 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="2.3.0" sparkle:os="ios" />
+            <title>Version 2.4.0</title>
+            <description>Mise à jour des données. Ajout d'un partenaire : ragnarok. Modification envoi de produits : il faut maintenant se connecter à son compte</description>
+            <pubDate>Thu, 08 Jan 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="2.4.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
