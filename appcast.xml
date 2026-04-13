@@ -6,13 +6,13 @@
             <title>Version 4.0.2</title>
             <description>Améliorations de la carte. Mise à jour des produits</description>
             <pubDate>Mon, 13 Apr 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.0.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.0.2" sparkle:os="android"/>
         </item>
         <item>
             <title>Version 4.0.1</title>
             <description>Mise en place de la carte des produits. Ajout du nutriscore / greenscore. Correction de la création de magasins</description>
             <pubDate>Tue, 07 Apr 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="4.0.1" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="4.0.1" sparkle:os="ios"/>
         </item>
     </channel>
 </rss>
