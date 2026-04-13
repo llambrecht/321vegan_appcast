@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>321 Vegan App - Appcast</title>
         <item>
             <title>Version 4.0.1</title>
             <description>Mise en place de la carte des produits. Ajout du nutriscore / greenscore. Correction de la création de magasins</description>
