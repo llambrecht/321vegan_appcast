@@ -6,13 +6,13 @@
             <title>Version 4.2.1</title>
             <description>Mise à jour des données</description>
             <pubDate>Sat, 16 May 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.1.1" sparkle:os="android"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.2.1" sparkle:os="android"/>
         </item>
         <item>
-            <title>Version 4.2.0</title>
-            <description>Amélioration de la carte, mise à jour des données</description>
-            <pubDate>Fri, 06 May 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="4.2.0" sparkle:os="ios"/>
+            <title>Version 4.2.1</title>
+            <description>Mise à jour des données</description>
+            <pubDate>Sat, 16 May 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="4.2.1" sparkle:os="ios"/>
         </item>
     </channel>
 </rss>
