@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.5.0" sparkle:os="android"/>
         </item>
         <item>
-            <title>Version 4.4.0</title>
-            <description>Ajout d'un bouton pour partager l'application. Ajout d'un essai gratuit sur la carte des produits. Amélioration des filtres sur les produits de la carte. Mise à jour des données de produits et de cosmétiques.</description>
-            <pubDate>Thu, 11 Jun 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="4.4.0" sparkle:os="ios"/>
+            <title>Version 4.5.0</title>
+            <description>Ajout d'une notification veganniversaire ! Mise à jour des données</description>
+            <pubDate>Thu, 18 Jun 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="4.5.0" sparkle:os="ios"/>
         </item>
     </channel>
 </rss>
