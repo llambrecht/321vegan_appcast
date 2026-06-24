@@ -3,10 +3,10 @@
     <channel>
         <title>321 Vegan App - Appcast</title>
         <item>
-            <title>Version 4.5.0</title>
-            <description>Ajout d'une notification veganniversaire ! Mise à jour des données</description>
-            <pubDate>Thu, 18 Jun 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.5.0" sparkle:os="android"/>
+            <title>Version 4.5.2</title>
+            <description>Mise à jour des données</description>
+            <pubDate>Wed, 24 Jun 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.5.2" sparkle:os="android"/>
         </item>
         <item>
             <title>Version 4.5.0</title>
