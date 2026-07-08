@@ -3,10 +3,10 @@
     <channel>
         <title>321 Vegan App - Appcast</title>
         <item>
-            <title>Version 4.6.1</title>
-            <description>Correction d'un bug sur la synchronisation hors ligne des scans du vegandex. Ajout des mentions de boycott sur l'historique de scan. Ajout du suivi des coordonnées sur la carte. Mise à jour des données de produits et cosmétiques</description>
-            <pubDate>Thu,02 Jul 2025 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.6.1" sparkle:os="android"/>
+            <title>Version 4.7.2</title>
+            <description>Mise à jour de l'UI. Mise à jour des données.</description>
+            <pubDate>Wed, 08 Jul 2025 08:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="4.7.2" sparkle:os="android"/>
         </item>
         <item>
             <title>Version 4.6.1</title>
