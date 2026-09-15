@@ -3,10 +3,10 @@
     <channel>
         <title>321 Vegan App - Appcast</title>
         <item>
-            <title>Version 5.2.1</title>
-            <description>Corrections visuelles et mise à jour des données.</description>
-            <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="5.2.1" sparkle:os="android"/>
+            <title>Version 5.3.0</title>
+            <description>Important ! Mise à jour des données et synchronisation.</description>
+            <pubDate>Tue, 15 Sep 2026 08:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="5.3.0" sparkle:os="android"/>
         </item>
         <item>
             <title>Version 5.2.1</title>
