@@ -3,10 +3,10 @@
     <channel>
         <title>321 Vegan App - Appcast</title>
         <item>
-            <title>Version 5.5.0</title>
-            <description>La carte est maintenant accessible à toutes et tous. Ajout d'un centre de notification. Mise à jour des données et des cosmétiques</description>
-            <pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="5.5.0" sparkle:os="android"/>
+            <title>Version 5.6.0</title>
+            <description>Ajout des notes de produits</description>
+            <pubDate>Sun, 18 Oct 2026 08:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="5.6.0" sparkle:os="android"/>
         </item>
         <item>
             <title>Version 5.5.0</title>
