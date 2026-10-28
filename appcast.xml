@@ -3,10 +3,10 @@
     <channel>
         <title>321 Vegan App - Appcast</title>
         <item>
-            <title>Version 5.6.0</title>
-            <description>Ajout des notes de produits</description>
-            <pubDate>Sun, 18 Oct 2026 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="5.6.0" sparkle:os="android"/>
+            <title>Version 6.1.0</title>
+            <description>Ajout de la carte des produits</description>
+            <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="6.1.0" sparkle:os="android"/>
         </item>
         <item>
             <title>Version 5.6.0</title>
