@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="6.1.2" sparkle:os="android"/>
         </item>
         <item>
-            <title>Version 6.1.0</title>
+            <title>Version 6.1.2</title>
             <description>Ajout de la carte des restaurants !</description>
             <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="6.1.0" sparkle:os="ios"/>
+            <enclosure url="https://apps.apple.com/fr/app/321-vegan/id6736880006" sparkle:version="6.1.2" sparkle:os="ios"/>
         </item>
     </channel>
 </rss>
