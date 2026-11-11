@@ -3,10 +3,10 @@
     <channel>
         <title>321 Vegan App - Appcast</title>
         <item>
-            <title>Version 6.2.0</title>
-            <description>Amélioration de la carte. Ajout des notifications push</description>
-            <pubDate>Sun, 08 Nov 2026 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="6.2.0" sparkle:os="android"/>
+            <title>Version 6.2.1</title>
+            <description>Ajout des informations PMR sur les restaurants. Améliorations de la carte (notifications, visibilité, UX). Mise à jour des données et cosmétiques</description>
+            <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app321vegan.veganapp" sparkle:version="6.2.1" sparkle:os="android"/>
         </item>
         <item>
             <title>Version 6.2.0</title>
